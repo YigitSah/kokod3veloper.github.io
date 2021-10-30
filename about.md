@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: About KokoD3veloper
 permalink: /about/
 ---
 
-Some information about you!
+Some information about me 😎:
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+<li>Staff in Reponse Project</li>
+</br>
+<li>Developer of Better Reponse Project</li>
+</br>
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Reponse Offical Discord Server](https://discord.gg/jnwj54MQH2)
