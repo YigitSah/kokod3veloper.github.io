@@ -55,3 +55,18 @@ Bu yazıda Requestjava Fonksiyonunu nasıl kullanacağınızı göstereceğim
 		return inputLine;
     }
     
+# types Değişkeni:
+<li>Tip belirtir.</li>
+<li>"post" veya "get" değeri alır.</li>
+# link Değişkeni:
+<li> Istek atılacak olan linktir.</li>
+<li> String alır.</li>
+# header Değişkeni:
+<li> String[] alır.</li>
+<li> Siteye atılan header'dır.</li>
+# postdata Değişkeni:
+<li> Sadece types post iken çalışır.</li>
+<li> Post data'yı belirler.</li>
+
+# Teşekkür:
+Ilk yazımı okuduğunuz için teşekkür ederim. Bir sorununuz varsa hakkında bölümündeki linklerden bana ulaşabilirsiniz.
