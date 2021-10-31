@@ -6,8 +6,13 @@ title: Requestjava Kullanımı
 Bu yazıda Requestjava Fonksiyonunu nasıl kullanacağınızı göstereceğim
 
 ![resim](https://user-images.githubusercontent.com/63654629/139591057-fe7010b8-7508-4cf2-a8f3-28eaa2774525.png)
-```java
-//Only put this script on your code
+			
+        
+
+        			
+        
+
+        //Only put this script on your code
     	public static String request(String types, String link, String[] headers ,String postdata) throws Exception {
     	String inputLine = "";
     	if (types == "get") {
@@ -49,4 +54,4 @@ Bu yazıda Requestjava Fonksiyonunu nasıl kullanacağınızı göstereceğim
     	}
 		return inputLine;
     }
-    ```
+    
