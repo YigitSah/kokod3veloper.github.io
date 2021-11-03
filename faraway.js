@@ -1,11 +1,6 @@
-
 class BrApi {
-  constructor(name, year) {
-    this.name = name;
-    this.year = year;
 
-  }
-  showNotification(text,options,time = 3000) {
+  static showNotification(text,options,time = 3000) {
     var x = document.getElementById("notifbar");
   
     // Add the "show" class to DIV
