@@ -5,8 +5,8 @@ class BrApi {
   
     // Add the "show" class to DIV
     x.className = "show";
-  
+    x.innerHTML = text; x.style.background = options; 
     // After 3 seconds, remove the show class from DIV
-    setTimeout(function(){ x.className = x.className.replace("show", ""); x.innerHTML = text; x.style.background = options; }, time);
+    setTimeout(function(){ x.className = x.className.replace("show", ""); }, time);
   }
 }
